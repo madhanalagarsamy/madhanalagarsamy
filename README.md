@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am a cybersecurity professional, vulnerability researcher, and the Founder of **[Net Corporation](https://netcorporation.site)**. I am widely recognized for my work in identifying critical software flaws, contributing to open-source tool testing, and engineering defensive software structures. I lead Net Corporation's technological roadmap, secure code review desks, and project delivery desks.
+I am a Security Researcher, and the Founder of **[Net Corporation](https://netcorporation.site)**. I am widely recognized for my work in identifying critical software flaws, contributing to open-source tool testing, and engineering defensive software structures. I lead Net Corporation's technological roadmap, secure code review desks, and project delivery desks.
 
 
 
