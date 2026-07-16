@@ -46,3 +46,16 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
     <td align="center"><img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" /></td>
   </tr>
 </table>
+
+
+<!--ISSUE_STATS_START-->
+<table align="center">
+  <tr>
+    <td align="center"><b>Total Issues Opened</b><br/>8</td>
+    <td align="center"><b>Currently Open</b><br/>8</td>
+    <td align="center"><b>Closed</b><br/>0</td>
+    <td align="center"><b>PRs Opened</b><br/>0</td>
+  </tr>
+</table>
+<p align="center"><sub>Last updated: 2026-07-16 20:14 UTC</sub></p>
+<!--ISSUE_STATS_END-->
