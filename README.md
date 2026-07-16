@@ -3,15 +3,11 @@
 </p>
 
 ### About Me
-
 I am a Security Researcher, and the Founder of **[Net Corporation](https://netcorporation.site)**. I am widely recognized for my work in identifying critical software flaws, contributing to open-source tool testing, and engineering defensive software structures. I lead Net Corporation's technological roadmap, secure code review desks, and project delivery desks.
-
-
 
 ---
 
 ### Contribution Analytics
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhanalagarsamy&bg_color=0a0512&color=ff00cc&line=ab00ff&point=00ffcc&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
@@ -19,20 +15,38 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
 ---
 
 ### Live Contribution & Repo Metrics
-
 <p align="center">
   <img src="https://github-readme-stats-git.vercel.app/api?username=madhanalagarsamy&show_icons=true&theme=radical&hide_border=true&bg_color=0a0512&title_color=ffffff&icon_color=00ffcc&text_color=a599e0" alt="GitHub Stats" width="49%" />
-
 </p>
 
+---
 
+### 🔴 Live Issue Tracker
+
+These badges are regenerated every hour by a GitHub Action (`.github/workflows/update-issue-stats.yml`) that queries the GitHub Search API and rewrites the JSON files below — shields.io just renders whatever the Action last wrote, so the numbers move on their own.
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/issues-total.json&style=for-the-badge" alt="Total Issues Opened" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/issues-open.json&style=for-the-badge" alt="Currently Open" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/issues-closed.json&style=for-the-badge" alt="Closed Issues" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/prs-total.json&style=for-the-badge" alt="PRs Opened" />
+</p>
+
+<!--ISSUE_STATS_START-->
+<table align="center">
+  <tr>
+    <td align="center"><b>Total Issues Opened</b><br/>—</td>
+    <td align="center"><b>Currently Open</b><br/>—</td>
+    <td align="center"><b>Closed</b><br/>—</td>
+    <td align="center"><b>PRs Opened</b><br/>—</td>
+  </tr>
+</table>
+<p align="center"><sub>Last updated: not yet run</sub></p>
+<!--ISSUE_STATS_END-->
 
 ---
 
 ### Open Source Contribution
-
-
-
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" /></td>
@@ -53,5 +67,3 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
     <td align="center"><img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" /></td>
   </tr>
 </table>
-
----
