@@ -14,16 +14,7 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
 
 ---
 
-### Live Contribution & Repo Metrics
-<p align="center">
-  <img src="https://github-readme-stats-git.vercel.app/api?username=madhanalagarsamy&show_icons=true&theme=radical&hide_border=true&bg_color=0a0512&title_color=ffffff&icon_color=00ffcc&text_color=a599e0" alt="GitHub Stats" width="49%" />
-</p>
-
----
-
 ### Live Issue Tracker
-
-These badges are regenerated every hour by a GitHub Action (`.github/workflows/update-issue-stats.yml`) that queries the GitHub Search API and rewrites the JSON files below — shields.io just renders whatever the Action last wrote, so the numbers move on their own.
 
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fissues-total.json&style=for-the-badge" alt="Total Issues Opened" />
@@ -31,18 +22,6 @@ These badges are regenerated every hour by a GitHub Action (`.github/workflows/u
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fissues-closed.json&style=for-the-badge" alt="Closed Issues" />
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fprs-total.json&style=for-the-badge" alt="PRs Opened" />
 </p>
-
-<!--ISSUE_STATS_START-->
-<table align="center">
-  <tr>
-    <td align="center"><b>Total Issues Opened</b><br/>8</td>
-    <td align="center"><b>Currently Open</b><br/>8</td>
-    <td align="center"><b>Closed</b><br/>0</td>
-    <td align="center"><b>PRs Opened</b><br/>0</td>
-  </tr>
-</table>
-<p align="center"><sub>Last updated: 2026-07-16 16:38 UTC</sub></p>
-<!--ISSUE_STATS_END-->
 
 ---
 
