@@ -1,1 +1,42 @@
+name: Update Live Issue Stats
 
+on:
+  schedule:
+    # Runs every hour. Adjust cron as you like (this is UTC).
+    - cron: "0 * * * *"
+  issues:
+    types: [opened, closed, reopened, deleted]
+  pull_request:
+    types: [opened, closed, reopened]
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-issue-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch live issue stats and update README + badges
+        env:
+          GH_USERNAME: madhanalagarsamy
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-issue-count.mjs
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update live issue stats [skip ci]"
+          file_pattern: "README.md .github/badges/*.json"
