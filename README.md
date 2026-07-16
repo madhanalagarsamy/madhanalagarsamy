@@ -21,15 +21,15 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
 
 ---
 
-### 🔴 Live Issue Tracker
+### Live Issue Tracker
 
 These badges are regenerated every hour by a GitHub Action (`.github/workflows/update-issue-stats.yml`) that queries the GitHub Search API and rewrites the JSON files below — shields.io just renders whatever the Action last wrote, so the numbers move on their own.
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/issues-total.json&style=for-the-badge" alt="Total Issues Opened" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/issues-open.json&style=for-the-badge" alt="Currently Open" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/issues-closed.json&style=for-the-badge" alt="Closed Issues" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/.github/badges/prs-total.json&style=for-the-badge" alt="PRs Opened" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fissues-total.json&style=for-the-badge" alt="Total Issues Opened" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fissues-open.json&style=for-the-badge" alt="Currently Open" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fissues-closed.json&style=for-the-badge" alt="Closed Issues" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmadhanalagarsamy%2Fmadhanalagarsamy%2Fmain%2F.github%2Fbadges%2Fprs-total.json&style=for-the-badge" alt="PRs Opened" />
 </p>
 
 <!--ISSUE_STATS_START-->
