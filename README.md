@@ -54,8 +54,8 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
     <td align="center"><b>Total Issues Opened</b><br/>14</td>
     <td align="center"><b>Currently Open</b><br/>11</td>
     <td align="center"><b>Closed</b><br/>3</td>
-    <td align="center"><b>PRs Opened</b><br/>2</td>
+    <td align="center"><b>PRs Opened</b><br/>3</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-08-02 17:02 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-02 20:15 UTC</sub></p>
 <!--ISSUE_STATS_END-->
