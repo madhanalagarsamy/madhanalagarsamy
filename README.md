@@ -52,10 +52,10 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
 <table align="center">
   <tr>
     <td align="center"><b>Total Issues Opened</b><br/>15</td>
-    <td align="center"><b>Currently Open</b><br/>12</td>
-    <td align="center"><b>Closed</b><br/>3</td>
+    <td align="center"><b>Currently Open</b><br/>10</td>
+    <td align="center"><b>Closed</b><br/>5</td>
     <td align="center"><b>PRs Opened</b><br/>3</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-08-04 16:21 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-04 21:03 UTC</sub></p>
 <!--ISSUE_STATS_END-->
