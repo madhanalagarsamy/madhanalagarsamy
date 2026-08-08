@@ -42,8 +42,8 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></td>
     <td align="center"><img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white" alt="JAX" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></td>
   </tr>
 </table>
 
