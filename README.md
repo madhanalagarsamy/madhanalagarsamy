@@ -51,11 +51,11 @@ I am a Security Researcher, and the Founder of **[Net Corporation](https://netco
 <!--ISSUE_STATS_START-->
 <table align="center">
   <tr>
-    <td align="center"><b>Total Issues Opened</b><br/>16</td>
-    <td align="center"><b>Currently Open</b><br/>10</td>
+    <td align="center"><b>Total Issues Opened</b><br/>17</td>
+    <td align="center"><b>Currently Open</b><br/>11</td>
     <td align="center"><b>Closed</b><br/>6</td>
-    <td align="center"><b>PRs Opened</b><br/>5</td>
+    <td align="center"><b>PRs Opened</b><br/>7</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-08-09 17:31 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-08-09 18:39 UTC</sub></p>
 <!--ISSUE_STATS_END-->
