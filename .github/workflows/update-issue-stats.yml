@@ -1,8 +1,8 @@
-name: Update Profile README & Metrics
+name: Update Live Issue Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 * * * *"
   issues:
     types: [opened, closed, reopened, deleted]
   pull_request:
@@ -13,29 +13,29 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-profile-readme
+  group: update-issue-stats
   cancel-in-progress: true
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
+          node-version: 20
 
-      - name: Fetch Live Metrics & Update README
+      - name: Fetch live issue stats and update README + badges
         env:
           GH_USERNAME: madhanalagarsamy
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/update_readme.py
+        run: node scripts/update-issue-count.mjs
 
-      - name: Commit and Push Changes
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: update profile README & dynamic stats [skip ci]"
+          commit_message: "chore: update live issue stats [skip ci]"
           file_pattern: "README.md .github/badges/*.json"
