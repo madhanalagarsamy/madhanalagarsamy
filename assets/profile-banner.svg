@@ -1,0 +1,73 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0d17" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#080a12" />
+    </linearGradient>
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.6" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.6" />
+    </pattern>
+    <radialGradient id="glow" cx="80%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" rx="12" fill="url(#bg-grad)" />
+  <rect width="900" height="200" rx="12" fill="url(#grid)" />
+  <circle cx="750" cy="60" r="160" fill="url(#glow)" />
+  <rect x="0.5" y="0.5" width="899" height="199" rx="11.5" stroke="url(#border-grad)" stroke-width="1" />
+
+  <!-- Accent top bar -->
+  <rect x="12" y="1" width="876" height="3" rx="1.5" fill="url(#accent-grad)" />
+
+  <!-- Terminal Dot Header -->
+  <circle cx="36" cy="30" r="4" fill="#ef4444" opacity="0.8" />
+  <circle cx="50" cy="30" r="4" fill="#f59e0b" opacity="0.8" />
+  <circle cx="64" cy="30" r="4" fill="#10b981" opacity="0.8" />
+  <text x="84" y="34" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="500">madhanalagarsamy // security-researcher &amp; systems-engineer</text>
+
+  <!-- Main Name Title -->
+  <text x="36" y="88" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.5">Madhan Alagarsamy</text>
+
+  <!-- Subtitle Tagline -->
+  <text x="36" y="118" fill="url(#accent-grad)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="0.5">FOUNDER @ NET CORPORATION • SECURITY RESEARCH • SYSTEMS &amp; ML</text>
+
+  <!-- Description / Core Areas -->
+  <text x="36" y="148" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Auditing Core Open Source • Deep Learning Framework Engineering • Defensive Architectures</text>
+
+  <!-- Badge Pills on the Right -->
+  <g transform="translate(540, 68)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="155" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <circle cx="14" cy="14" r="4" fill="#38bdf8" />
+    <text x="26" y="18" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">Security Research</text>
+
+    <!-- Pill 2 -->
+    <rect x="165" y="0" width="165" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <circle cx="179" cy="14" r="4" fill="#818cf8" />
+    <text x="191" y="18" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">AI / ML Frameworks</text>
+
+    <!-- Pill 3 -->
+    <rect x="0" y="38" width="155" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <circle cx="14" cy="52" r="4" fill="#c084fc" />
+    <text x="26" y="56" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">Optical Data Transfer</text>
+
+    <!-- Pill 4 -->
+    <rect x="165" y="38" width="165" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <circle cx="179" cy="52" r="4" fill="#34d399" />
+    <text x="191" y="56" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">Defensive Software</text>
+  </g>
+</svg>
