@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Currently pursuing MCA &bull; Architecting secure, high-concurrency systems &amp; contributing to open-source ecosystems</i>
+  <i>Architecting secure, high-concurrency systems &amp; contributing to open-source ecosystems</i>
 </p>
 
 ### 👨‍💻 About Me
