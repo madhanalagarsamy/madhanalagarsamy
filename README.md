@@ -12,12 +12,6 @@
 
 I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net Corporation](https://netcorporation.site)** with comprehensive expertise spanning full-stack web application development, deployment, and secure architecture. Currently pursuing an MCA, I combine strong academic foundations with end-to-end execution capabilities—from frontend design and backend engineering to production deployment and vulnerability assessment.
 
-* 🛡️ **Cybersecurity & Research:** Web application penetration testing (VAPT), vulnerability assessment, and rigorous secure code reviews. Actively contributing critical bug fixes, security patches, and performance enhancements to major open-source ecosystems including **PyTorch**, **TensorFlow**, and **Keras**.
-* 🚀 **Founder & Lead Developer @ [Net Corporation](https://netcorporation.site):** Architecting and deploying high-concurrency enterprise solutions, directing organizational technology roadmaps, and maintaining resilient CI/CD pipelines.
-* 💻 **Core Languages:** Python, TypeScript, C++, JavaScript, HTML/CSS
-* 🔧 **Frameworks & Tools:** PyTorch, TensorFlow, Keras, OpenCV, SQLite, Git/GitHub, CI/CD Workflows
-* ⚡ **AI-Assisted Engineering:** Claude Code, Google Antigravity, Codex, and automated workflow prototyping
-
 ---
 
 <!-- ===== GITHUB STATS ===== -->
@@ -102,7 +96,7 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
     <td align="center"><b>PRs Opened</b><br/>11</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-09-04 06:33 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-04 06:36 UTC</sub></p>
 <!--ISSUE_STATS_END-->
 
 <!-- ===== SOCIAL BADGES ===== -->
