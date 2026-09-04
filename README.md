@@ -93,8 +93,44 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
     <td align="center"><b>PRs Opened</b><br/>11</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-09-04 07:22 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-04 07:30 UTC</sub></p>
 <!--ISSUE_STATS_END-->
+
+<!-- ===== COMMUNITY GAME ===== -->
+
+<div align="center">
+
+### 🕹️ Community Playable Tic-Tac-Toe
+
+<!-- TTT_START -->
+<table align="center">
+  <tr>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C0%2C0&body=Click+%27Submit+new+issue%27+to+play+at+Row+1%2C+Column+1%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 1, Col 1" /></a></td>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C0%2C1&body=Click+%27Submit+new+issue%27+to+play+at+Row+1%2C+Column+2%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 1, Col 2" /></a></td>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C0%2C2&body=Click+%27Submit+new+issue%27+to+play+at+Row+1%2C+Column+3%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 1, Col 3" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C1%2C0&body=Click+%27Submit+new+issue%27+to+play+at+Row+2%2C+Column+1%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 2, Col 1" /></a></td>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C1%2C1&body=Click+%27Submit+new+issue%27+to+play+at+Row+2%2C+Column+2%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 2, Col 2" /></a></td>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C1%2C2&body=Click+%27Submit+new+issue%27+to+play+at+Row+2%2C+Column+3%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 2, Col 3" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C2%2C0&body=Click+%27Submit+new+issue%27+to+play+at+Row+3%2C+Column+1%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 3, Col 1" /></a></td>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C2%2C1&body=Click+%27Submit+new+issue%27+to+play+at+Row+3%2C+Column+2%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 3, Col 2" /></a></td>
+    <td align="center" width="65" height="65"><a href="https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cplay%7C2%2C2&body=Click+%27Submit+new+issue%27+to+play+at+Row+3%2C+Column+3%21"><img src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/assets/ttt/empty.svg" width="55" height="55" alt="Play Row 3, Col 3" /></a></td>
+  </tr>
+</table>
+
+<p align="center">
+  🎮 **Your turn (X)!** Click any empty square above to make a move. &bull; Last move played by **@madhanalagarsamy**<br/>
+  <sub>🏆 **Community:** 0 wins &bull; 🤖 **Bot:** 0 wins &bull; 🤝 **Draws:** 0 &bull; 🔄 [Start New Game](https://github.com/madhanalagarsamy/madhanalagarsamy/issues/new?title=ttt%7Cnew&body=Click+%27Submit+new+issue%27+to+start+a+fresh+game%21)</sub>
+</p>
+<!-- TTT_END -->
+
+</div>
+
+<!-- ===== END COMMUNITY GAME ===== -->
+<br/>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
