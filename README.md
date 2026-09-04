@@ -1,7 +1,7 @@
 <h1 align="center">Madhan Alagarsamy</h1>
 
 <p align="center">
-  <b>Independent Cybersecurity Researcher &bull; Full-Stack Developer &bull; Founder of <a href="https://netcorporation.site">Net Corporation</a></b>
+  <b>Independent Cybersecurity Researcher &bull; Developer &bull; Founder of <a href="https://netcorporation.site">Net Corporation</a></b>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net Corporation](https://netcorporation.site)** with comprehensive expertise spanning full-stack web application development, deployment, and secure architecture. Currently pursuing an MCA, I combine strong academic foundations with end-to-end execution capabilities—from frontend design and backend engineering to production deployment and vulnerability assessment.
+I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net Corporation](https://netcorporation.site)** with comprehensive expertise spanning web applications, AI/ML systems, deployment, and secure architecture. Currently pursuing an MCA, I combine strong academic foundations with end-to-end execution capabilities—from system design and backend engineering to production deployment and vulnerability assessment.
 
 ---
 
@@ -96,7 +96,7 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
     <td align="center"><b>PRs Opened</b><br/>11</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-09-04 06:36 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-04 06:43 UTC</sub></p>
 <!--ISSUE_STATS_END-->
 
 <!-- ===== SOCIAL BADGES ===== -->
