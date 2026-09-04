@@ -57,9 +57,9 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </picture>
 
 </div>
@@ -110,7 +110,7 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
     <td align="center"><b>PRs Opened</b><br/>11</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-09-04 07:04 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-04 07:12 UTC</sub></p>
 <!--ISSUE_STATS_END-->
 
 <!-- ===== SOCIAL BADGES ===== -->
