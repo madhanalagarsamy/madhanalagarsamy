@@ -1,11 +1,16 @@
 <h1 align="center">Madhan Alagarsamy</h1>
 
 <p align="center">
-  <b>Independent Cybersecurity Researcher &bull; Developer &bull; Founder of <a href="https://netcorporation.site">Net Corporation</a></b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Independent+Cybersecurity+Researcher;Founder+%40+Net+Corporation;Open-Source+Contributor+(PyTorch%2C+TensorFlow%2C+Keras);Vulnerability+Assessment+%26+Secure+Systems" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=16A34A&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Independent+Cybersecurity+Researcher;Founder+%40+Net+Corporation;Open-Source+Contributor+(PyTorch%2C+TensorFlow%2C+Keras);Vulnerability+Assessment+%26+Secure+Systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=39D353&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Independent+Cybersecurity+Researcher;Founder+%40+Net+Corporation;Open-Source+Contributor+(PyTorch%2C+TensorFlow%2C+Keras);Vulnerability+Assessment+%26+Secure+Systems" alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
-  <i>Architecting secure, high-concurrency systems &amp; contributing to open-source ecosystems</i>
+  <b>Independent Cybersecurity Researcher &bull; Developer &bull; Founder of <a href="https://netcorporation.site">Net Corporation</a></b><br/>
+  <i>Currently pursuing MCA &bull; Architecting secure, high-concurrency systems &amp; contributing to open-source ecosystems</i>
 </p>
 
 ### 👨‍💻 About Me
@@ -51,20 +56,6 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
 </div>
 
 <!-- ===== END SNAKE ===== -->
-
-<!-- ===== 3D CONTRIBUTION GRAPH ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/madhanalagarsamy/madhanalagarsamy/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</picture>
-
-</div>
-
-<!-- ===== END 3D CONTRIBUTION GRAPH ===== -->
 <br/>
 
 <!-- ===== OPEN SOURCE CONTRIBUTIONS ===== -->
@@ -110,7 +101,7 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
     <td align="center"><b>PRs Opened</b><br/>11</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-09-04 07:12 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-04 07:18 UTC</sub></p>
 <!--ISSUE_STATS_END-->
 
 <!-- ===== SOCIAL BADGES ===== -->
