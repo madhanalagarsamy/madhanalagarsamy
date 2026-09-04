@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="380" viewBox="0 0 1180 380" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" role="img" aria-label="Madhan Alagarsamy — profile.sh --live">
+  <defs>
+    <!-- Accent animated gradient -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#22D3EE">
+        <animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#10B981">
+        <animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Radar sweep gradient -->
+    <linearGradient id="radarGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A101F"/>
+      <stop offset="1" stop-color="#070B16"/>
+    </linearGradient>
+
+    <filter id="glow3" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glowSubtle" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="winClip">
+      <rect x="2" y="2" width="1176" height="376" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- Window Container -->
+  <rect x="2" y="2" width="1176" height="376" rx="16" fill="#070B16" stroke="#22D3EE" stroke-width="1.2" stroke-opacity="0.4"/>
+
+  <g clip-path="url(#winClip)">
+    <rect x="2" y="2" width="1176" height="376" fill="url(#panelGrad)"/>
+
+    <!-- Subtle Tech Grid -->
+    <g stroke="rgba(34, 211, 238, 0.05)" stroke-width="1">
+      <line x1="0" y1="90" x2="1180" y2="90"/>
+      <line x1="0" y1="140" x2="1180" y2="140"/>
+      <line x1="0" y1="190" x2="1180" y2="190"/>
+      <line x1="0" y1="240" x2="1180" y2="240"/>
+      <line x1="0" y1="290" x2="1180" y2="290"/>
+      <line x1="0" y1="340" x2="1180" y2="340"/>
+      <line x1="100" y1="46" x2="100" y2="380"/>
+      <line x1="250" y1="46" x2="250" y2="380"/>
+      <line x1="400" y1="46" x2="400" y2="380"/>
+      <line x1="550" y1="46" x2="550" y2="380"/>
+      <line x1="700" y1="46" x2="700" y2="380"/>
+      <line x1="850" y1="46" x2="850" y2="380"/>
+      <line x1="1000" y1="46" x2="1000" y2="380"/>
+    </g>
+
+    <!-- Header / Titlebar -->
+    <rect x="2" y="2" width="1176" height="42" fill="#0B1222"/>
+    <line x1="2" y1="44" x2="1178" y2="44" stroke="rgba(255,255,255,0.08)"/>
+
+    <!-- Terminal Controls -->
+    <circle cx="28" cy="23" r="5.5" fill="#ff5f56"/>
+    <circle cx="48" cy="23" r="5.5" fill="#ffbd2e"/>
+    <circle cx="68" cy="23" r="5.5" fill="#27c93f"/>
+
+    <text x="590" y="27" text-anchor="middle" font-size="12" fill="#94A3B8" letter-spacing="1">madhan@netcorporation ~ % ./profile.sh --live</text>
+
+    <!-- LEFT PANEL: Security Radar / Shield Visual -->
+    <g transform="translate(45, 75)">
+      <!-- Radar Box Container -->
+      <rect x="0" y="0" width="260" height="265" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.3)" stroke-width="1.5"/>
+      <text x="16" y="26" font-size="10" letter-spacing="2" fill="#475569" font-weight="bold">TARGET.RADAR // 0xSEC</text>
+
+      <!-- Center Radar Circles -->
+      <g transform="translate(130, 140)">
+        <!-- Static Rings -->
+        <circle cx="0" cy="0" r="85" fill="none" stroke="rgba(34,211,238,0.12)" stroke-width="1"/>
+        <circle cx="0" cy="0" r="60" fill="none" stroke="rgba(34,211,238,0.18)" stroke-width="1"/>
+        <circle cx="0" cy="0" r="35" fill="none" stroke="rgba(34,211,238,0.25)" stroke-width="1"/>
+        <circle cx="0" cy="0" r="10" fill="none" stroke="rgba(34,211,238,0.4)" stroke-width="1"/>
+
+        <!-- Crosshairs -->
+        <line x1="-90" y1="0" x2="90" y2="0" stroke="rgba(34,211,238,0.2)" stroke-width="1" stroke-dasharray="3,3"/>
+        <line x1="0" y1="-90" x2="0" y2="90" stroke="rgba(34,211,238,0.2)" stroke-width="1" stroke-dasharray="3,3"/>
+
+        <!-- Rotating Radar Beam -->
+        <g>
+          <path d="M0 0 L 60 -60 A 85 85 0 0 1 85 0 Z" fill="url(#radarGrad)" opacity="0.4"/>
+          <line x1="0" y1="0" x2="85" y2="0" stroke="#22D3EE" stroke-width="1.5" filter="url(#glowSubtle)"/>
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+        </g>
+
+        <!-- Threat Blips -->
+        <circle cx="38" cy="-28" r="3" fill="#10B981" filter="url(#glow3)">
+          <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="-42" cy="35" r="3.5" fill="#22D3EE" filter="url(#glow3)">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="15" cy="50" r="2.5" fill="#A78BFA" filter="url(#glow3)">
+          <animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.8s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+
+      <!-- Radar Footer Status -->
+      <text x="130" y="248" text-anchor="middle" font-size="10" fill="#10B981" font-weight="bold" letter-spacing="1.5">● SHIELD STATUS: ARMED</text>
+    </g>
+
+    <!-- RIGHT PANEL: Live Interactive Terminal Spec -->
+    <g transform="translate(345, 75)">
+      <!-- Command prompt -->
+      <text x="0" y="24" font-size="14" fill="#94A3B8">
+        <tspan fill="#22D3EE">madhan@netcorp</tspan><tspan fill="#475569">:</tspan><tspan fill="#A78BFA">~</tspan><tspan fill="#F8FAFC">$</tspan> whoami
+      </text>
+
+      <!-- Main Name with Animated Gradient -->
+      <text x="0" y="68" font-size="32" font-weight="bold" fill="url(#accent)" filter="url(#glowSubtle)" letter-spacing="1">
+        Madhan Alagarsamy
+      </text>
+
+      <!-- Subtitle -->
+      <text x="0" y="98" font-size="14" font-weight="500" fill="#F8FAFC">
+        Security Researcher <tspan fill="#475569">|</tspan> <tspan fill="#22D3EE">Founder @ Net Corporation</tspan>
+      </text>
+
+      <!-- Divider -->
+      <line x1="0" y1="116" x2="780" y2="116" stroke="rgba(34, 211, 238, 0.25)" stroke-width="1"/>
+
+      <!-- Specs & Details -->
+      <g font-size="13" line-height="1.8">
+        <text x="0" y="146" fill="#475569">[<tspan fill="#22D3EE">+</tspan>] <tspan fill="#94A3B8">CORE FOCUS</tspan>     <tspan fill="#F8FAFC">:: Critical Vulnerability Research &amp; 0-Day Discovery</tspan></text>
+        <text x="0" y="174" fill="#475569">[<tspan fill="#22D3EE">+</tspan>] <tspan fill="#94A3B8">SPECIALTIES</tspan>    <tspan fill="#F8FAFC">:: Defensive Architecture • Secure Code Review • Tool Testing</tspan></text>
+        <text x="0" y="202" fill="#475569">[<tspan fill="#22D3EE">+</tspan>] <tspan fill="#94A3B8">ORGANIZATION</tspan>   <tspan fill="#F8FAFC">:: </tspan><tspan fill="#22D3EE" text-decoration="underline">Net Corporation</tspan> <tspan fill="#64748B">(netcorporation.site)</tspan></text>
+        <text x="0" y="230" fill="#475569">[<tspan fill="#22D3EE">+</tspan>] <tspan fill="#94A3B8">AUDIT TARGETS</tspan>  <tspan fill="#A78BFA">PyTorch</tspan><tspan fill="#475569">, </tspan><tspan fill="#A78BFA">TensorFlow</tspan><tspan fill="#475569">, </tspan><tspan fill="#A78BFA">Keras</tspan><tspan fill="#475569">, </tspan><tspan fill="#A78BFA">OpenCV</tspan><tspan fill="#475569">, </tspan><tspan fill="#A78BFA">n8n</tspan><tspan fill="#475569">, </tspan><tspan fill="#A78BFA">SQLite</tspan></text>
+
+        <!-- Command Executing line with blinking cursor -->
+        <text x="0" y="260" fill="#10B981" font-weight="bold">
+          [✓] System Integrity: Optimal <tspan fill="#94A3B8">|</tspan> Ready for secure disclosures
+          <tspan fill="#22D3EE">_</tspan>
+          <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
