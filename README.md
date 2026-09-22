@@ -88,12 +88,12 @@ I am an **Independent Cybersecurity Researcher, Developer, and Founder of [Net C
 <table align="center">
   <tr>
     <td align="center"><b>Total Issues Opened</b><br/>23</td>
-    <td align="center"><b>Currently Open</b><br/>10</td>
-    <td align="center"><b>Closed</b><br/>13</td>
+    <td align="center"><b>Currently Open</b><br/>9</td>
+    <td align="center"><b>Closed</b><br/>14</td>
     <td align="center"><b>PRs Opened</b><br/>15</td>
   </tr>
 </table>
-<p align="center"><sub>Last updated: 2026-09-22 05:43 UTC</sub></p>
+<p align="center"><sub>Last updated: 2026-09-22 10:45 UTC</sub></p>
 <!--ISSUE_STATS_END-->
 
 <!-- ===== SOCIAL BADGES ===== -->
